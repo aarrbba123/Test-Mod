@@ -1,6 +1,6 @@
 type:material
 name:Yesium
-description:A 'Jack-of-all-trades' psuedo-liquid in a container for safe keeping. Just [red]don't [white]drop it.
+description:"A 'Jack-of-all-trades' psuedo-liquid in a container for safe keeping. Just [red]don't [white]drop it."
 explosiveness:2.2
 flammability:0.5
 radioactivity:0.8

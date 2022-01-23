@@ -13,7 +13,7 @@ consumes: {
   items: {
     items: [
       metaglass/8
-      Silicon/10
+      silicon/10
       plastinium/5
       copper/5
       lead/5
