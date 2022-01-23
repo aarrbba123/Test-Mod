@@ -1,0 +1,8 @@
+name: "test-mod"
+displayName: "Test Mod"
+author: Harraf
+description: "F"
+version: "1.0"
+minGameVersion: "135"
+dependencies: [ ]
+hidden: false
