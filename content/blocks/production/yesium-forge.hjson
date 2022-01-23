@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Yesium Forge
-description: Combines EVERY.SINGLE.(Mineable)ITEM.IN.THE.GAME. Uses Slag,Metaglass,Titanium and Silicon as well as plastinium as heating and container materials respectively.
+description: "Combines [red]EVERY.SINGLE.(Mineable)ITEM.IN.THE.GAME.[grey] Uses Slag,Metaglass,Titanium and Silicon as well as plastinium as heating and container materials respectively."
 liquidCapacity: 50
 size: 3
 hasPower: true
@@ -14,7 +14,7 @@ consumes: {
     items: [
       metaglass/8
       silicon/10
-      plastinium/5
+      plastanium/5
       copper/5
       lead/5
       titanium/15
