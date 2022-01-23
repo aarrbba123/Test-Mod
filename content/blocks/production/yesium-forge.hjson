@@ -31,10 +31,10 @@ requirements: [
   lead/50
   thorium/80
   silicon/60
-  silver/50
+  titanium/50
 ]
 category: crafting
-research: electrum-forge
+research: alloy-smelter
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: Yesium/1
