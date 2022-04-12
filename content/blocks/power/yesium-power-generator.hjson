@@ -1,0 +1,28 @@
+size:5
+type:ImpactReactor
+category:power
+hasItems:true
+hasLiquids:true
+research:impact-reactor
+name:Yesium Power Core
+description:"Generates a [red]LOT [clear]of power at its peak but requires lots of cryofluid for cooling.Uses Yesium to generate heat and plasma"
+liquidCapacity:1850
+itemCapacity:30
+requirements:[
+    copper/52
+    graphite/20
+    titanium/22
+    silicon/50
+    yesium/12
+]
+consumes:{
+ power:60.2
+ items:[
+  yesium/5
+ ]
+ liquid{
+    liquid: cryofluid
+    amount: 18.5
+ }
+}
+powerProduction:950
