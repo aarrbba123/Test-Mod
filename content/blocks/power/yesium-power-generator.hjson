@@ -20,7 +20,7 @@ consumes:{
  items:[
   yesium/5
  ]
- liquid{
+ liquid:{
     liquid: cryofluid
     amount: 18.5
  }
