@@ -1,8 +1,8 @@
 name: "test-mod"
-displayName: "Test Mod"
+displayName: "Harraf's Test Mod"
 author: Harraf
-description: "Still having issues with installing aseprite lol\n\n[cyan]I am that inexperienced guy who uses MSpaint to do the mod :P"
-version: "1.1.4"
+description: "Pixil is better lol /s"
+version: "1.2.0"
 minGameVersion: "135"
 dependencies: [ ]
 hidden: false

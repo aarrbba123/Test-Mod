@@ -1,0 +1,7 @@
+type:material
+name:"Arc Powercell"
+description:"An Arc Powercell design made in 20xx.This one is filled"
+explosiveness:1.2
+flammability:0
+radioactivity:0
+charge:3.2
