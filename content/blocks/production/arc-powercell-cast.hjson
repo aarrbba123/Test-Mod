@@ -1,0 +1,35 @@
+type: GenericSmelter
+name: Arc Powercell Shell Caster
+description: "Casts Arc Powercell Shells from metal alloys,Yesium and silicon\n\n(Dayum that's a mouthful)"
+health: 200
+itemCapacity: 12
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 300
+updateEffect: smeltsmoke
+consumes: {
+  power: 32
+  items: {
+    items: [
+      metal-alloy-bar/5
+      silicon/5
+      yesium/2
+    ]
+  }
+}
+requirements: [
+  copper/70
+  lead/50
+  thorium/80
+  silicon/60
+  titanium/50
+  metal-alloy-bar/80
+  yesium/5
+]
+category: crafting
+research: yesium-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: arc-powercell-empty/1

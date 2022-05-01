@@ -1,8 +1,8 @@
 name: "test-mod"
 displayName: "Harraf's Test Mod"
 author: Harraf
-description: "Pixil is better lol /s"
-version: "1.2.0"
+description: "Pixil is better lol /s\n\nA mod to test my modding/js (Mostly non-js,ofc) skills"
+version: "1.3"
 minGameVersion: "135"
 dependencies: [ ]
 hidden: false
