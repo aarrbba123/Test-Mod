@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Arc Powercell Charger
+description: "Charges Arc Powercell for use"
+health: 120
+itemCapacity: 1
+size: 1
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 180
+consumes: {
+  power: 17
+  items: {
+    items: [
+        arc-powercell-empty/1
+    ]
+  }
+}
+requirements: [
+  copper/50
+  lead/25
+  thorium/25
+  silicon/80
+  titanium/50
+  metaglass/10
+  metal-alloy-bar/10
+  yesium/2
+]
+category: power
+research: arc-powercell-cast
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: arc-powercell-filled/1

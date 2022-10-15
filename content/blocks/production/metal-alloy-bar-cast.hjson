@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Metal Alloy Bar Caster
+description: "Casts Metal Alloy Bars from Titanium and Thorium"
+health: 220
+itemCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 180
+updateEffect: smeltsmoke
+consumes: {
+  power: 3
+  items: {
+    items: [
+        titanium/2
+        thorium/2
+    ]
+  }
+}
+requirements: [
+  copper/80
+  lead/50
+  thorium/100
+  silicon/80
+  titanium/100
+  metaglass/15
+]
+category: crafting
+research: yesium-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: metal-alloy-bar/4

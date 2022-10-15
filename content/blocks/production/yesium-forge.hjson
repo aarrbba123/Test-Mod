@@ -1,25 +1,25 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Yesium Forge
 description: "Combines [red]EVERY.SINGLE.(Mineable)ITEM.IN.THE.GAME.[grey] Uses Slag,Metaglass,Titanium and Silicon as well as plastinium as heating and container materials respectively."
 liquidCapacity: 50
-itemCapacity: 30
+itemCapacity: 40
 size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 60
+craftTime: 180
 updateEffect: smeltsmoke
 consumes: {
-  power: 46
+  power: 5
   items: {
     items: [
       metaglass/8
-      silicon/10
+      silicon/12
       plastanium/5
-      copper/5
-      lead/5
-      titanium/15
-      thorium/5
+      copper/20
+      lead/15
+      titanium/20
+      thorium/10
     ]
   }
   liquid: {
@@ -33,6 +33,7 @@ requirements: [
   thorium/80
   silicon/60
   titanium/50
+  metal-alloy-bar/20
 ]
 category: crafting
 research: alloy-smelter
