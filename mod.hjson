@@ -2,7 +2,7 @@ name: "test-mod"
 displayName: "Harraf's Test Mod"
 author: Harraf
 description: "A Mindusty Mod to test stuff.\n\nStill doesn't know how to put icon.png though."
-version: "1.4"
+version: "1.4.1"
 minGameVersion: "139"
 dependencies: [ ]
 hidden: false
