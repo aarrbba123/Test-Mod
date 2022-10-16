@@ -28,5 +28,6 @@ requirements: [
   metal-alloy-bar/10
   yesium/2
 ]
+outputItem: arc-powercell-empty/1
 category: power
 research: arc-powercell-cast
