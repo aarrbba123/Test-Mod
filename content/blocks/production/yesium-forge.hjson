@@ -37,6 +37,4 @@ requirements: [
 ]
 category: crafting
 research: alloy-smelter
-idleSound: respawning
-idleSoundVolume: 0.5
 outputItem: yesium/1

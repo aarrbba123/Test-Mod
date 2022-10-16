@@ -1,4 +1,6 @@
-type: PowerGenerator
+//type: TEMD_ItemDischarger
+
+type: GenericCrafter
 name: Arc Powercell Discharger
 description: "Discharges Arc Power Cells"
 health: 120
@@ -8,8 +10,8 @@ hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 180
-powerProduction: 17
 consumes: {
+  power: -17
   items: {
     items: [
         arc-powercell-filled/1
@@ -28,6 +30,3 @@ requirements: [
 ]
 category: power
 research: arc-powercell-cast
-idleSound: respawning
-idleSoundVolume: 0.5
-outputItem: arc-powercell-empty/1
